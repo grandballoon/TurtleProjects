@@ -4,16 +4,13 @@ local wave_offset = 150  -- where to draw the wave
 
 t2 = Turtle()
 t3 = Turtle()
-t4 = Turtle()
 t2.speed(0)
 t3.speed(0)
-t4.speed(0)
 
 pencolor("gold")
 t2.pencolor("cyan")
 t3.pencolor("red")
 t3.penup()
-t4.penup()
 
 -- Now trace both simultaneously
 pencolor("gold")
