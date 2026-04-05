@@ -31,7 +31,7 @@ home()
 setpos(0, 150)
 home()
 penup()
-
+```
 -- Now mark the "famous" angles and show their coordinates
 local famous = {0, 30, 45, 60, 90, 120, 135, 150, 180, 210, 225, 240, 270, 300, 315, 330}
 
@@ -331,3 +331,4 @@ print("Gold dot = point traveling around the circle")
 print("Cyan dot = its y-coordinate plotted over time")
 print("The horizontal gray lines show: SAME HEIGHT.")
 print("The sine wave IS the circle, unrolled.")
+```
